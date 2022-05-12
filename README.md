@@ -1,4 +1,5 @@
 # kickstarter-analysis
+![t1](resources/Success_by_Month_Year.png)
 ## Project Overview
     The goal of this project is to analyze kickstarter campaign data to determine the impact of the following two variables on campaign success:
     - Launch Date
