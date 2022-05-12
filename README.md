@@ -1,5 +1,5 @@
 # kickstarter-analysis
-![t1](resources/Success_by_Month_Year.png)
+
 ## Project Overview
     The goal of this project is to analyze kickstarter campaign data to determine the impact of the following two variables on campaign success:
     - Launch Date
@@ -14,4 +14,4 @@
     
 ### Funding Goal
     Segmenting data by funding goal was done by breaking goals down into $5K increments, with a minimum of $1K. Note all analysis is done in local currency, so we've blended amounts in different currencies.
-![Outcomes by goal size](resources/Outcomes_vs_Goals)
+![Outcomes by goal size](resources/Outcomes_vs_Goals.png)
