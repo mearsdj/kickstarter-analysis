@@ -8,8 +8,9 @@
 ## Analysis and Challenges
 ### Launch Date
     First we segment the data by launch date, using the date the campaign was created. 
-    ![Outcomes_by_Launch_Date](resources/Theater_Outcomes_vs_Launch.png)
-    Though we have data points from 2009 to 2017, 2017 is incomplete, data prior to 2014 is very thin, and several years lack results results for each month. We only have 2 years with campaigns in every month (2015, 2016). A second view, based on launch month and year was also created, to provide a more granular picture of success by month. ![Successful Outcomes Seasonality](resources/Success_by_Month_Year.png)
+![Outcomes_by_Launch_Date](resources/Theater_Outcomes_vs_Launch.png)
+    Though we have data points from 2009 to 2017, 2017 is incomplete, data prior to 2014 is very thin, and several years lack results results for each month. We only have 2 years with campaigns in every month (2015, 2016). A second view, based on launch month and year was also created, to provide a more granular picture of success by month.
+    ![Successful Outcomes Seasonality](resources/Success_by_Month_Year.png)
     
 
 
