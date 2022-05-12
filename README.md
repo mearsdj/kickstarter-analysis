@@ -1,9 +1,10 @@
 # kickstarter-analysis
 
 ## Project Overview
-    The goal of this project is to analyze kickstarter campaign data to determine the impact of the following two variables on campaign success:
+    <code> The goal of this project is to analyze kickstarter campaign data to determine the impact of the following two variables on campaign success:
     - Launch Date
     - Funding goal (in local currency)
+    </code>
 ---
 ## Analysis and Challenges
 ### Launch Date
